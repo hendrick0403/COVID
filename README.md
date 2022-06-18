@@ -1,11 +1,11 @@
 # COVID-19 final project
-This repo contains all files related to workflow used in the project:
--Code.cwl > the source code to be implemented in the cloud platform.
--SRA_meta.txt > the file used to fetch all data in one execution turn.
--SupplementaryFile.xlsx > the detailed result for each sample.
--UShER.json > the file to visualize the phylogenetics tree.
--UShER_meta.tsv > the additional metadata in visualizing the phylogenetics tree.
--VirusViz.json.gz > the file to visualize the variant comparison.
+This repo contains all files related to workflow used in the project:\
+-Code.cwl > the source code to be implemented in the cloud platform.\
+-SRA_meta.txt > the file used to fetch all data in one execution turn.\
+-SupplementaryFile.xlsx > the detailed result for each sample.\
+-UShER.json > the file to visualize the phylogenetics tree.\
+-UShER_meta.tsv > the additional metadata in visualizing the phylogenetics tree.\
+-VirusViz.json.gz > the file to visualize the variant comparison.\
 -viral.tar > the reference index used in the project
 
 ## How to Use
